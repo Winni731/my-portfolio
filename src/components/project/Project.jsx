@@ -32,16 +32,16 @@ const data = [
     {
         id: 4,
         image: IMG4,
-        title: 'Mini Soccer Game',
-        github: 'https://github.com',
-        demo: 'https://github.com'
+        title: 'Program Schedular',
+        github: 'https://github.com/Winni731/Program-Schedular',
+        demo: 'https://github.com/Winni731/Program-Schedular'
     },
     {
         id: 5,
         image: IMG5,
         title: 'Mini Soccer Game',
-        github: 'https://github.com/achhina/MiniSoccerGameProject',
-        demo: 'https://github.com/achhina/MiniSoccerGameProject'
+        github: 'https://github.com/Winni731/Mini-Soccer-Game',
+        demo: 'https://github.com/Winni731/Mini-Soccer-Game'
     }
 ]
 
@@ -76,8 +76,8 @@ const Project = () => {
                 
                 <h3>More Projects . . .</h3>
                 <div className="project_item-cta">
-                <a href="https://github.com" className='btn' target='_blank'>Github</a>
-                <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target='_blank'>Project List</a>
+                <a href="https://github.com/Winni731" className='btn' target='_blank'>Github</a>
+                <a href="https://winni731.github.io/yz_profile/project.html" className='btn btn-primary' target='_blank'>Project List</a>
                 </div>
         </article>
 
